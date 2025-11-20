@@ -1,4 +1,5 @@
 Oasis Network: Modern TextUI & Notification System
+<img width="2160" height="2960" alt="Untitled" src="https://github.com/user-attachments/assets/f9a586fa-26e2-48f6-9efa-eb95fe99fffc" />
 
 
 Give your server the polished look it deserves.
