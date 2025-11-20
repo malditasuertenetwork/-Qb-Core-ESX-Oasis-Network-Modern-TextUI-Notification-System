@@ -1,3 +1,6 @@
+Oasis Network: Modern TextUI & Notification System
+
+
 Give your server the polished look it deserves.
 
 Say goodbye to the boring, default GTA V help text. Oasis TextUI redefines how players interact with your world. Whether it’s opening a shop, starting a job, or accessing a menu, our system delivers a sleek, modern, and animated interface.
