@@ -22,6 +22,8 @@ Oasis Network: Modern TextUI & Notification System
 
 
 https://www.youtube.com/watch?v=gaWzu6Mxv44&t=52s
+
+
 |-------------------------------------|---------------------|
 | Code is accessible | No |
 | Subscription-based | Yes |
